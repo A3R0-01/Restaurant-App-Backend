@@ -3,7 +3,7 @@ backend code for the restaurant application
 
 ## the application uses mysql for the database
 
-the database schema is in the "Database Schema.sql" file 
+the database schema is in the 'Database Schema.sql' file 
 
 ### Waiter: 
   id: 1  
