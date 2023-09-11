@@ -1,7 +1,7 @@
 # Restaurant-App-Backend
 backend code for the restaurant application
 
-##the application uses mysql for the database
+## the application uses mysql for the database
 
 the database schema is in the .sql file 
 
